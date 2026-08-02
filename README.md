@@ -3,9 +3,9 @@
     <img src="images/citizennetlogo.png" alt="Citizen Net" width="100" />
   </a>
   <a href="https://github.com/ValanceTek">
-    <img src="images/Vtek.png" alt="Valance Tek" width="125" />
+    <img src="images/Vtek.png" alt="Valance Tek" width="150" />
   </a>
-  <a href="https://github.com/ValanceTek/Brokr Base">
+  <a href="https://brokerbase.linkpc.net/">
     <img src="images/brkrbase.png" alt="Brokr Base" width="100" />
   </a>
   
