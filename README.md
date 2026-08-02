@@ -10,20 +10,21 @@
   </a>
   
   
-  <h1>Tanishq Khatri</h1>
-  <h4>🚀 Data Analyst | Open Source Enthusiast</h4>
-  <p>Founder of Valance Tek | Lifelong Learner</p>
-</div>
+  <h3>Tanishq Khatri</h3>
+   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Data+Analyst;Founder+of+Valance+Tek;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+    </a>
 
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oktanishq/oktanishq/github-breakout/images/breakout-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oktanishq/oktanishq/github-breakout/images/breakout-light.svg" />
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/oktanishq/oktanishq/github-breakout/images/breakout-light.svg" />
 </picture>
+</div>
+
 ---
 
-### Data Analysis & Visualization
+### 📈Data Analysis & Visualization
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,10 +34,17 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-I'm a builder and a lifelong learner who thrives outside the traditional classroom. I believe in hands-on learning and applying new knowledge every single day. I'm currently founding [Valance Tek]("https://github.com/ValanceTek") to amplify my impact and support the open-source ecosystem.
+I'm a builder and a lifelong learner who thrives outside the traditional classroom. I believe in hands-on learning and applying new knowledge every single day. I'm currently founding [Valance Tek](https://github.com/ValanceTek) to amplify my impact and support the open-source ecosystem.
 
 I maintain a balanced lifestyle focused on improving my health, expanding my knowledge, growing my business, and connecting with others. Off the keyboard, I'm either traveling, hitting the badminton court, or playing games on Steam. 
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oktanishq&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oktanishq&theme=radical&hide_border=true" width="48%" />
+</div>
+<br>
 
 ## 🏞️ Interests
 
@@ -51,7 +59,7 @@ I maintain a balanced lifestyle focused on improving my health, expanding my kno
 
 ## Tech Stack
 
-### Languages
+### 🔤Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -70,7 +78,7 @@ I maintain a balanced lifestyle focused on improving my health, expanding my kno
 
 ### Frameworks, Platforms & Libraries
 
-#### Frontend
+#### 🎨Frontend
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/alpinejs-%238BC0D0.svg?style=for-the-badge&logo=alpine.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -78,7 +86,7 @@ I maintain a balanced lifestyle focused on improving my health, expanding my kno
 <!-- ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) -->
 
-#### Backend
+#### ⚙️Backend
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/livewire-%23FB70A9.svg?style=for-the-badge&logo=livewire&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -99,10 +107,11 @@ I maintain a balanced lifestyle focused on improving my health, expanding my kno
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Affinity](https://img.shields.io/badge/Affinity_Suite-1C1B1F?style=for-the-badge)
 ![Cavalry](https://img.shields.io/badge/Cavalry-212121?style=for-the-badge)
+<!--
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
-<!-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
+ ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 
 ## 💡 Motto
 
