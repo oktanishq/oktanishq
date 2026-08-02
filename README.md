@@ -3,7 +3,7 @@
     <img src="images/citizennetlogo.png" alt="Citizen Net" width="100" />
   </a>
   <a href="https://github.com/ValanceTek">
-    <img src="images/Vteklogo.png" alt="Valance Tek" width="125" />
+    <img src="images/Vtek.png" alt="Valance Tek" width="125" />
   </a>
   <a href="https://github.com/ValanceTek/Brokr Base">
     <img src="images/brkrbase.png" alt="Brokr Base" width="100" />
